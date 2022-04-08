@@ -1,0 +1,22 @@
+h1 {
+  font-size: 60px;
+  color:rgb(180, 20, 20);
+}
+h2 {
+  color:darkgreen;
+  font-weight: bold;
+}
+h3 {
+  color: mediumseagreen;
+}
+
+ul.a {
+  list-style-position: outside;
+}
+
+ul.b {
+  list-style-position: inside;
+}
+.center{
+  text-align: center;
+}
